@@ -1,0 +1,12 @@
+body {
+  margin: 15px;
+}
+
+textarea {
+  width: 80%;
+  height: 250px;
+}
+
+.found {
+  background-color: yellow;
+}
